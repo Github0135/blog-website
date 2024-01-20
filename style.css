@@ -28,4 +28,54 @@
 }
 .movie_text span{
     color: firebrick;
+
+}
+.games_li{
+    margin-top: 13px;
+
+}
+.games_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+
+}
+.games_li img{
+    border-radius: 25px;
+
+}
+.games_li p{
+    margin-top: 10px;
+    
+}
+.bg{
+    line-height: 2;
+}
+.book{
+    cursor: pointer;
+}
+.book hr{
+    margin-bottom: 10px;
+}
+.modal-content{
+    margin-top: 100px;
+}
+.img_modal{
+    display:inline-block;
+}
+.p_modal{
+    margin-top: 10px;
+}
+.modal-body{
+    text-align: center;
+}
+#aboutme{
+    background: firebrick;
+
+}
+.contact1 h3{
+    display:inline;
+}
+.contact1 a{
+    color: aliceblue;
+    text-shadow: none;
 }
